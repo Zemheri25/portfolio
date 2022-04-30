@@ -1,0 +1,47 @@
+.skillsmain {
+    background-color: #212121;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 2rem;
+
+}
+
+.skill {
+    box-shadow: 4px 4px 5px 5px #613528;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.skill1 {
+    background-color: #212121;
+}
+
+.border2 {
+    border: 3px solid #F56539;
+    border-radius: 5px;
+    margin: 5rem auto;
+    width: 90%;
+}
+
+.skill h3 {
+    color: white;
+}
+
+
+.skillimg {
+    background-color: red;
+    width: 10rem;
+}
+
+.skill:hover {
+    width: 12rem;
+    height: 12rem;
+}
+

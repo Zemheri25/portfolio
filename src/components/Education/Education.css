@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+.educationmain {
+  background-color: #212121;
+  font-family: "Poppins", sans-serif;
+}
+
+.educationinfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.border1 {
+  border: 3px solid #f56539;
+  width: 90%;
+  
+  margin: 0rem auto 5rem;
+  border-radius: 5px;
+}
+
+.educations {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.education2 {
+  display: flex;
+  transition: all 0.3s ease;
+  background-color: #773622;
+  width: 35rem;
+  height: 10rem;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 3rem auto;
+}
+
+.cap {
+  border-radius: 100%;
+  background-color: #f56539;
+  height: 5rem;
+  width: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.educationinfo1 {
+  margin-left: 2rem;
+}
