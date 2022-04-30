@@ -1,0 +1,28 @@
+.contactmain {
+    background-color: #773622;
+    width: 50%;
+    margin: 3rem auto;
+    display: flex;
+    
+    
+    padding: 2rem;
+    border-radius: 10px;
+    flex-direction: column;
+}
+
+.contact1 {
+    display: flex;
+    margin-top: 1rem;
+}
+
+.icons1 a {
+    color: black;
+    margin-left: 2rem;
+
+}
+
+.icons1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}

@@ -8,3 +8,12 @@
     margin: 3rem auto;
     border-radius: 10px;
 }
+
+
+.experience1 {
+    background-color: #773622;
+    display: flex;
+    padding: 1rem;
+    width: 30rem;
+
+}
